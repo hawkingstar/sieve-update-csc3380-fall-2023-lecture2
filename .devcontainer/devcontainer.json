@@ -9,7 +9,8 @@
   "customizations": {
     "codespaces": {
       "openFiles": [
-        "code/multipy.cpp"
+        "code/multipy.cpp",
+        "code/sieve.cpp"
       ]
     },
     "vscode": {

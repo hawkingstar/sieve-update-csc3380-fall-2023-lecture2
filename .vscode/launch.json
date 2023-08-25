@@ -4,6 +4,7 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
+
         {
             "name": "(gdb) Launch multipy",
             "type": "cppdbg",
@@ -29,10 +30,10 @@
             ]
         },
         {
-            "name": "(gdb) Launch hello_world",
+            "name": "(gdb) Launch sieve",
             "type": "cppdbg",
             "request": "launch",
-            "program": "${workspaceFolder}/build/hello_world",
+            "program": "${workspaceFolder}/build/sieve",
             "args": [],
             "stopAtEntry": false,
             "cwd": "${fileDirname}",
